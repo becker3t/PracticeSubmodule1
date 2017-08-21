@@ -5,4 +5,6 @@ package com.example.submodulelib;
  */
 
 public class MyClass {
+    public MyClass() {
+    }
 }
