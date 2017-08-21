@@ -5,6 +5,10 @@ package com.example.submodulelib;
  */
 
 public class MyClass {
-    public MyClass() {
+
+    String a;
+
+    public MyClass(String a) {
+        this.a = a;
     }
 }
